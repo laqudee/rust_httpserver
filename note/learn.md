@@ -21,3 +21,10 @@
 - From<&str>
 - Debug
 - PartialEq
+
+- HttpResponse需要实现的方法or trait
+  - Default trait
+  - new()
+  - send_response()
+  - getter方法
+  - From trait
